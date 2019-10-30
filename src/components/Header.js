@@ -14,7 +14,7 @@ export default class Header extends Component {
                                 <nav>
                                     <ul>
                                         <li><a href="/">Home</a></li>
-                                        <li><a href="/about">About</a></li>
+                                        <li><a href="/About">About</a></li>
                                         <li><a href="/">Disclaimer</a></li>
                                         <li><a href="/">Credit</a></li>
                                     </ul>
@@ -33,5 +33,3 @@ export default class Header extends Component {
         )
     }
 }
-
-
