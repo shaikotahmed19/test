@@ -14,7 +14,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col">
-              <h2 className="cb-title">Home Page</h2>
+              <h2 className="cb-title">Home-Page</h2>
               <div className="row">
               <Route exact path="/" render={props => (
                 <LatestPhotos/>
